@@ -1,4 +1,4 @@
-# resumos-estudos
+# Resumos de estudos
 
 Este repositório contém alguns resumos de conteúdos que tenho estudado atualmente. 
 
